@@ -39,10 +39,10 @@ To use the End of Day Reports tool:
 
 
 
-Configuration
+## Configuration
 Customize the tool's behavior by adjusting settings in the config.ini file. This includes database connections, app settings, and any other relevant parameters.
 
-How to Build the Executable
+## How to Build the Executable
 To create a standalone executable from the Python code:
 
 Open a terminal and navigate to the location of setup.py:
@@ -59,5 +59,5 @@ The resulting executable will be located in the build directory.
 License
 This project is licensed under the MIT License.
 
-Contact
+## Contact
 For questions or further information, feel free to reach out to us at priyampatel704@gmail.com.
